@@ -258,6 +258,7 @@ return [
         //Webkul packages
         Webkul\Theme\Providers\ThemeServiceProvider::class,
         Webkul\User\Providers\UserServiceProvider::class,
+        Seller\Providers\SellerServiceProvider::class,
         Webkul\Admin\Providers\AdminServiceProvider::class,
         Webkul\Ui\Providers\UiServiceProvider::class,
         Webkul\Category\Providers\CategoryServiceProvider::class,
